@@ -2,7 +2,10 @@
 
 window.onload=function(){
 
-//texte = document.getElementById('texte')
+table = document.getElementById('catltoche');
+
+monTab[][];
+
 }
 
 function add(){document.getElementById('texte').innerText="ADDITION"}
